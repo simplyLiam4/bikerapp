@@ -1,0 +1,47 @@
+.hero {
+  background-color: var(--bg);
+  color: var(--textColor);
+  padding: 80px 0;
+}
+
+.heroTitle {
+  font-size: 36px;
+  color: var(--textColor);
+  margin-bottom: 20px;
+}
+
+.heroSubtitle {
+  font-size: 20px;
+  color: var(--softTextColor);
+  max-width: 600px;
+}
+
+.container {
+  min-height: 100vh;
+  background-color: var(--bg);
+  color: var(--textColor);
+}
+
+.section {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: var(--bg);
+  border-radius: 8px;
+}
+
+.title {
+  font-size: 25px;
+  color: var(--textColor);
+}
+
+.subTitle {
+  font-size: 25px;
+  color: var(--softTextColor);
+}
+
+.text {
+  text-align: justify;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--softTextColor);
+}
